@@ -1,5 +1,3 @@
-<head>
-    <style>
     h1, p { 
       color: #000000; 
     }
@@ -18,10 +16,6 @@
         background-image: url("http://varemerke.info/wp-content/uploads/2016/09/modern-style-white-wood-floor-texture-white-wood-texture-white-wood-wall-texture-16.jpg");
         background-color: #E0E0E0;
     }
-</style>
-</head>
-<head>
-<style>
 h1 {
     text-align: center;
     color: blue; 
@@ -30,5 +24,4 @@ h1 {
 h3 {
     text-align: left;
 } 
-</style>
-</head>
+
