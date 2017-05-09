@@ -1,0 +1,22 @@
+<head>
+    <style>
+    h1, p { 
+      color: #000000; 
+    }
+    h2 {
+      color: #FF66B2; 
+        000000; 
+      font-size: 16pt;
+    }
+    p#abc456 {
+         font-size: 16pt;
+    }
+    article h1 {
+      color: #4C0099; 
+    }
+    body {
+        background-image: url("https://s-media-cache-ak0.pinimg.com/736x/44/e0/d8/44e0d8ff1bd5f09e146ef5645df1185b.jpg");
+        background-color: #FFE4C4;
+    }
+</style>
+</head>
