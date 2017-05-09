@@ -12,11 +12,11 @@
          font-size: 16pt;
     }
     article h1 {
-      color: #4C0099; 
+      color: #004C99; 
     }
     body {
         background-image: url("http://varemerke.info/wp-content/uploads/2016/09/modern-style-white-wood-floor-texture-white-wood-texture-white-wood-wall-texture-16.jpg");
-        background-color: #FFE4C4;
+        background-color: #E0E0E0;
     }
 </style>
 </head>
@@ -26,7 +26,7 @@ h1 {
     text-align: center;
 }
 
-p {
+h3 {
     text-align: left;
 
 } 
