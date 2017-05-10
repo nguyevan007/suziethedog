@@ -6,7 +6,9 @@
     }
     h2 {
       color: #003366;
-      font-size: 16pt;
+      font-size: 150%;
+        
+        
     }
     p#abc456 {
     text-indent: 50px;
